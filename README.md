@@ -2,11 +2,15 @@
 
 Detects Instagram Username OCR from a screenshot
 
+## Dependecies
+
+To install it:
+
 ```
 pip install -r requirements.txt
 ```
 
-# Quickstart
+## Quickstart
 ```python
 python main.py
 ```
